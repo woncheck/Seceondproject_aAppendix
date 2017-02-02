@@ -8,6 +8,6 @@ public class HelloGit {
 
 		System.out.println("hello git2");
 		System.out.println("heloou git 65");
-
+		System.out.println("conflite test");
 	}
 }
